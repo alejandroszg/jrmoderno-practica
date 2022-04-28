@@ -1,2 +1,2 @@
 # JavaScript Moderno Guía Definitiva
-This is a JavaScript Modern practice course, where we going to learn JavaScript by making more than 20 projects!
+This is a Modern JavaScript practice course, where we going to learn JavaScript by making more than 20 projects! From the beginning with Vanilla, going through API, IndexedDB, NodeJS, PWA, Design Patterns, Debugging, Testing (Jest, Cypress) and React.
