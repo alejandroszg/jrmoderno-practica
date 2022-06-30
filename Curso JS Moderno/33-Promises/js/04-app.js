@@ -10,7 +10,7 @@ const nuevoPais = pais => new Promise(resolve => {
 nuevoPais('Alemania')
     .then(resultado =>{
         console.log(resultado);
-        console.log(paises);
+        console.log(pai ses);
         return nuevoPais('Francia');
     })
     .then(resultado =>{
